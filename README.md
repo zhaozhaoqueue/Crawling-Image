@@ -4,4 +4,4 @@ Use Scrapy to crawl a website and download some images.
 - Use "referer" to avoid being blocked
 - Save the images in different folds according to the category information in the urls
 # How to run?
-scrapy crawl <SPIDER_NAME>
+scrapy crawl sexy
